@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "id": 2,
+      "message": "hard drive crashed at 559",
+      "attention": true,
+      "tech": "Tony Doe",
+      "date": "2019-08-18T18:26:48.184Z"
+    },
+    {
+      "message": "Problem on Connecting Server",
+      "attention": true,
+      "tech": "Tony Doe",
+      "date": "2019-08-18T16:43:52.385Z",
+      "id": 3
+    },
+    {
+      "message": "Problem on the Server System",
+      "attention": false,
+      "tech": "Sid Doe",
+      "date": "2019-08-18T16:44:21.245Z",
+      "id": 4
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sid",
+      "lastName": "Doe"
+    },
+    {
+      "id": 3,
+      "firstName": "Tony",
+      "lastName": "Doe"
+    }
+  ]
+}
