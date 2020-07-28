@@ -8,8 +8,7 @@ import {getLogs} from '../../actions/logActions';
 
 const Logs = ({log:{logs,loading}, getLogs}) => {
 
-    // const [logs, setLogs] = useState([]);
-    // const [loading, setLoading] = useState(false);
+    
 
 
     useEffect(()=>{
